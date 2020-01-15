@@ -7,6 +7,7 @@ Date: 2020/01/14
 
 int main(void) {
         printf("Hello World!\n");
+		printf("Major: Mechanical Engineering.");
         return 0;
 }
 
