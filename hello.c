@@ -18,7 +18,7 @@ int main(void) {
 	//Display my collaborators (written by collaborators)
 	printf("Here are my collaborators.");
 	
-    return 0; //End program
+	return 0; //End program
 }
 
 
