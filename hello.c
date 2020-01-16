@@ -11,8 +11,8 @@ Collaborators:
 //Executed Code
 int main(void) {
 	
-	//Display my name and major
-    printf("Name: Kyle George\n");
+	//Display my name and major.
+	printf("Name: Kyle George\n");
 	printf("Major: Mechanical Engineering.");
 	
 	//Display my collaborators (written by collaborators)
